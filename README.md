@@ -81,5 +81,5 @@ I used sqflite to store the cities that I want to save at home screen locally.
 
 ### Inspirational designs
 
-1. [Welcome page](https://dribbblecom/shots16361858-Weather-Forecast-Mobile-applcation/attachments/9054245?mode=media)
-2. [Home page](https://dribbble.comshots/15736238/attachments/7539550mode=media)
+1. [Welcome page](https://dribbble.com/shots/16361858-Weather-Forecast-Mobile-application)
+2. [Home page](https://dribbble.com/shots/15736238-Weather-App-Design-Exploration)
